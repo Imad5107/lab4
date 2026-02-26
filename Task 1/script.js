@@ -1,0 +1,1 @@
+document.writeln("The javascript in the external file.")
