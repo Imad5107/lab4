@@ -4,6 +4,8 @@
 // calculate the percentage of the student based on 500 marks and return the grades such as A, B, 
 // C, D or F. Set your own grading criteria. The output should be displayed in tabular format depicting 
 // the registration number, name, individual subject marks, obtained marks and final grade. 
+
+
 function gradeSheet(){
     var regNo=prompt("Enter your registration number: ");
     var name=prompt("Enter your name: ");
