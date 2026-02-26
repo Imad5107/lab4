@@ -1,7 +1,8 @@
 function add(){
-    a=2;
-    b=3;
-    document.writeln("The sum of a and b is :", a+b);
+    a=Number(prompt("Enter the first number:"));
+    b=Number(prompt("Enter the second nubmer: "));
+    alert("The Sum of"+a+"and"+b+"is: "+(a+b));
+
 }
 
 add();
